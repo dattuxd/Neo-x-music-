@@ -28,7 +28,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moonshining6&repo=VIP-MUSIC&theme=flag-india)
 
 [![GIF](https://github.com/Moonshining6/VIP-MUSIC/blob/main/Moonshining6.gif)](https://github.com/Moonshining6)
-   [![VIP BOY](https://github-stats-alpha.vercel.app/api?username=Moonshining6 "THE_VIP_BOY")](https://github-stats-alpha.vercel.app/api?username=Moonshining6 "THE_VIP_BOY")
+   [![VIP BOY](https://github-stats-alpha.vercel.app/api?username=Moonshining6 "Moonshining6")](https://github-stats-alpha.vercel.app/api?username=Moonshining6 "Moonshining6")
 
 
 <p align="center">
