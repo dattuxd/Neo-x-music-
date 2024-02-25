@@ -56,7 +56,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝐈𝐟+𝐀𝐧𝐲+𝐄𝐫𝐫𝐨𝐫+𝐓𝐡𝐞𝐧+𝐒𝐞𝐧𝐝+𝐄𝐫𝐫𝐨𝐫+𝐈𝐧+𝐕𝐢𝐩+𝐃𝐦+...">
 <p align="center">
-<a href="https://t.me/swaggerkarthik"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐒𝐖𝐀𝐆𝐆𝐄𝐑%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/swaggerkarthik"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 chinna%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -90,7 +90,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 ### Contact :
-<a href="https://t.me/mental_pillodu"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/Gangleader_143"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://www.instagram.com/blessed_with_shree_krishna"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <img src="https://telegra.ph/file/adce6a621c1db2077df02.jpg">
