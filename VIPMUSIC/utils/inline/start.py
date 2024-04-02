@@ -33,11 +33,11 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="𝐈𝛕ᷟ‌𝚣⃪ꙴ ⋆‌⃝๛𝐕𝐢𝐣𝐚𝐲™๛٭》", url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text=".𝐕𝐢𝐣𝐚𝐲™.", url=config.SUPPORT_CHAT),
             InlineKeyboardButton(text="❥͜͡🇧‌𝐓𝐒༎ࠫ𝆺꯭𝅥", url=config.SUPPORT_CHANNEL),
         ],
         [
-            InlineKeyboardButton(text="۞ 𝐅𝙴𝙰𝚃𝚄𝚁𝙴𝚂 ۞", callback_data="settings_back_helper")
+            InlineKeyboardButton(text="💖 𝐅𝙴𝙰𝚃𝚄𝚁𝙴𝚂 💖", callback_data="settings_back_helper")
         ],
     ]
     return buttons
