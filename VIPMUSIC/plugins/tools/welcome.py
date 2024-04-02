@@ -23,11 +23,11 @@ from VIPMUSIC.utils.vip_ban import admin_filter
 
 
 random_photo = [
-    "https://telegra.ph/file/adce6a621c1db2077df02.jpg",
-    "https://telegra.ph/file/adce6a621c1db2077df02.jpg",
-    "https://telegra.ph/file/adce6a621c1db2077df02.jpg",
-    "https://telegra.ph/file/adce6a621c1db2077df02.jpg",
-    "https://telegra.ph/file/adce6a621c1db2077df02.jpg",
+    "https://telegra.ph/file/008de381207c2a0f74b86.jpg",
+    "https://telegra.ph/file/008de381207c2a0f74b86.jpg",
+    "https://telegra.ph/file/008de381207c2a0f74b86.jpg",
+    "https://telegra.ph/file/008de381207c2a0f74b86.jpg",
+    "https://telegra.ph/file/008de381207c2a0f74b86.jpg",
 ]
 # --------------------------------------------------------------------------------- #
 
