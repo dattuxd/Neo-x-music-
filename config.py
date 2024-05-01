@@ -72,7 +72,7 @@ CLEANMODE_DELETE_MINS = int(
 )  # Remember to give value in Seconds
 
 # Get your pyrogram v2 session from @VIP_STRING_ROBOT on Telegram
-STRING1 = getenv("STRING_SESSION", "")
+STRING1 = getenv("STRING_SESSION", "BQEyfBoAYC9cqND7OE6vvF9-LbndCaInqMZSIdKfoe5o0xuo1USKNzi9G2M-QZ80ian7VbeuFM2uCEgxs2I6RzMvQXRo_MEcreofgKQTI6L696kMz4JTxjA9Ek-3ivcSvHJcBF1wQ4sbQJvoQKQlSDo_VqeEWq4-Ky0HSHr9kNM_BqHg3nwwBihYhnR_qNzF0I72BwUvBIEdZplmz_XxBW876e4Xpq3vSafLDwIPvQdYoVhm0vO2pWRRMldmHLpl52LOnyRfwaco42844_0msAcFwVKee0ol8TTQvYrvfhZqwxX4QUe-3yprAeoFCcisLfKXRIEf1ykWfkdmlNqNdTP3aTg25wAAAAGSlZLRAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
