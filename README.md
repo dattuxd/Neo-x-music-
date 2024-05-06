@@ -22,7 +22,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐓𝐇𝐄+𝐕𝐈𝐏+𝐁𝐎𝐘+🎭">
 
 
-<img src="https://telegra.ph/file/adce6a621c1db2077df02.jpg"> 
+<img src=""> 
 <img src="https://telegra.ph/file/adce6a621c1db2077df02.jpg">
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moonshining6&repo=VIP-MUSIC&theme=flag-india)
