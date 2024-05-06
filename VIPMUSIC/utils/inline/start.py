@@ -34,7 +34,7 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text="💖 Group 💖", url=config.SUPPORT_CHAT),
-            InlineKeyboardButton(text="❥͜͡🇧‌𝐓𝐒༎ࠫ𝆺꯭𝅥", url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text="Royalking", url=config.SUPPORT_CHANNEL),
         ],
         [
             InlineKeyboardButton(text="💖 𝐅𝙴𝙰𝚃𝚄𝚁𝙴𝚂 💖", callback_data="settings_back_helper")
