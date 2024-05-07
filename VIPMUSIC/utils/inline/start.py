@@ -33,7 +33,7 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="💖Royalking💖", url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text="💖 Royalking 💖", url=config.SUPPORT_CHAT),
             InlineKeyboardButton(text="Royalking", url=config.SUPPORT_CHANNEL),
         ],
         [
